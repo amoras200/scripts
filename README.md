@@ -1,0 +1,1 @@
+# Repositorio de armazenamento de scripts. 
